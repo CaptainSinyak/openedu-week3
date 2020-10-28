@@ -1,7 +1,7 @@
 {
   "routes" : {
      "/login" : "index.html",
-     "/sample/" : "index1.html" 
+     "/sample" : "index1.html" 
   }, 
   "headers" : {
     "/login": {
